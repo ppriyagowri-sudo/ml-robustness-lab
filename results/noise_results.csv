@@ -1,0 +1,13 @@
+model,noise_level,mean_accuracy,std_accuracy
+Logistic Regression,0.0,0.9883,0.0
+Logistic Regression,0.1,0.9825,0.0061
+Logistic Regression,0.25,0.9749,0.0085
+Logistic Regression,0.5,0.9506,0.0121
+Logistic Regression,1.0,0.9038,0.016
+Logistic Regression,2.0,0.8018,0.0215
+Random Forest,0.0,0.9415,0.0
+Random Forest,0.1,0.9415,0.0076
+Random Forest,0.25,0.9412,0.01
+Random Forest,0.5,0.9254,0.0202
+Random Forest,1.0,0.8696,0.0206
+Random Forest,2.0,0.764,0.0252

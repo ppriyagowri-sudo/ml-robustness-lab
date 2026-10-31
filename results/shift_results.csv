@@ -1,0 +1,15 @@
+model,shift,accuracy,malignant_recall
+Logistic Regression,-1.0,0.7544,0.3438
+Logistic Regression,-0.5,0.9006,0.7344
+Logistic Regression,-0.25,0.9415,0.8438
+Logistic Regression,0.0,0.9883,0.9844
+Logistic Regression,0.25,0.8713,1.0
+Logistic Regression,0.5,0.7076,1.0
+Logistic Regression,1.0,0.4211,1.0
+Random Forest,-1.0,0.7485,0.3281
+Random Forest,-0.5,0.8889,0.7031
+Random Forest,-0.25,0.9357,0.8281
+Random Forest,0.0,0.9415,0.9062
+Random Forest,0.25,0.8713,0.9844
+Random Forest,0.5,0.7485,1.0
+Random Forest,1.0,0.4327,1.0

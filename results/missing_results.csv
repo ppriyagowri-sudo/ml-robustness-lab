@@ -1,0 +1,13 @@
+model,missing_fraction,mean_accuracy,std_accuracy
+Logistic Regression,0.0,0.9883,0.0
+Logistic Regression,0.05,0.9842,0.0046
+Logistic Regression,0.1,0.9792,0.006
+Logistic Regression,0.2,0.9675,0.0097
+Logistic Regression,0.3,0.957,0.0081
+Logistic Regression,0.5,0.9161,0.014
+Random Forest,0.0,0.9415,0.0
+Random Forest,0.05,0.9406,0.0046
+Random Forest,0.1,0.9406,0.0056
+Random Forest,0.2,0.9404,0.0115
+Random Forest,0.3,0.9322,0.0118
+Random Forest,0.5,0.8596,0.0137
